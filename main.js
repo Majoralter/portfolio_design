@@ -4,7 +4,7 @@ import "swiper/css/bundle"
 const swiper = new Swiper(".swiper",{
     direction: "horizontal",
     loop: true,
-    speed: 600,
+    speed: 300,
     spaceBetween: 20,
     grabCursor: true,
     autoplay: true,
